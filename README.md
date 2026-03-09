@@ -15,3 +15,8 @@ To contribute, please follow the guidelines in the contributing section.
 If you encounter any issues or have questions, please [open an issue](../../issues).
 
 For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
+
+## Future Plans
+- Include more linters
+- Add comparison charts
+- Facilitate community contributions through discussions
